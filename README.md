@@ -1,4 +1,4 @@
 # tour-of-heroes
 
-## Angular guide followed
+Angular guide followed
 https://angular.io/tutorial/first-app
